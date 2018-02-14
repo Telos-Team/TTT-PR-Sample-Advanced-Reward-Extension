@@ -1,0 +1,24 @@
+{
+  "id": "176af739-e813-414e-b8eb-ab17011691fa",
+  "name": "TTT PR Sample Advanced Reward Extension",
+  "publisher": "TTTPR",
+  "brief": "Advanced Reward Extension",
+  "description": "This is an advanced Reward Extension",
+  "version": "1.0.0.0",
+  "compatibilityId": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "11.0.0.0",
+  "application": "11.0.0.0",
+  "idRange": {
+    "from": 50110,
+    "to": 50119
+  },
+  "showMyCode": true
+}
